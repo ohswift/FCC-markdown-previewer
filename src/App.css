@@ -1,0 +1,18 @@
+#editor {
+  height: 450px;
+  width: 100%;
+  overflow: scroll;
+}
+
+#preview {
+  height: 450px;
+  width: 100%;
+  border: solid 1px black;
+  overflow: scroll;
+}
+
+#preview img {
+  display: block;
+  max-width: 90%;
+  margin: 2rem auto;
+}
